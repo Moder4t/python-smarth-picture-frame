@@ -1,0 +1,5 @@
+#config.yaml
+wakeup: '8:30'
+close: '20:30'
+period: '00:00:30'
+path: '/home/pi/Albums/'
